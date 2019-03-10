@@ -1,2 +1,2 @@
-# datasciencecoursera
-A repository for a series of data science courses from Coursera. This is one part of a course project.
+# ml exercise
+A repository for an online machine learning course.
